@@ -12,7 +12,7 @@ Para el estilo de la página web he seleccionado una triada de colores utilizand
 Con la herramienta de edición [Moqups](https://moqups.com) realice prototipos para dar a conocer un poco el concepto que tenía pensado para realizar el diseño de la web, dividiendo la web en cuatro secciones:
 * [Colores](https://github.com/luz20026/iaw23-website/imagenes/colores.png)
 
-* [Pagina principal](https://github.com/luz20026/iaw23-website/imagenes/principal.png)
+* [Pagina principal](https://github.com/luz20026/iaw23-website/principal.png)
 * [Eventos](https://github.com/luz20026/iaw23-website//imagenes/secundaria.png)
 * [Contacto](https://github.com/luz20026/iaw23-website/imagenes/Contacto.png)
 * [Registro](https://github.com/luz20026/iaw23-website/imagenes/registro.png)
