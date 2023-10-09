@@ -13,6 +13,6 @@ Con la herramienta de edición [Moqups](https://moqups.com) realice prototipos p
 * [Colores](https://github.com/luz20026/iaw23-website/imagenes/colores.png)
 
 * [Pagina principal](https://github.com/luz20026/iaw23-website/imagenes/principal.png)
-* [Eventos](https://github.com/luz20026/iaw23-website/imagenes/secundaria.png)
+* [Eventos](https://github.com/luz20026/iaw23-website//imagenes/secundaria.png)
 * [Contacto](https://github.com/luz20026/iaw23-website/imagenes/Contacto.png)
 * [Registro](https://github.com/luz20026/iaw23-website/imagenes/registro.png)
